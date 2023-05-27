@@ -529,14 +529,14 @@ body {
         display: none;
     }
     /*SERVICE BLOCKS*/
-    .service-blocks {
+    .service-nav {
         display: flex;
         align-items: center;
         padding: 32px 0;
         overflow-x: scroll;
         width: 100%;
     }
-    .service-blocks a {
+    .service-nav a {
         color: var(--grey);
         margin-left: 20px;
         white-space: nowrap;
